@@ -7,7 +7,7 @@
   
 ## Hecho por:
 
-### Alexander López
+### Alexander López Bueno
 
 ### Linkedin: https://linkedin.com/in/alexanderlópezbuenodev
 ### Instagram: https://instagram.com/alexander_lo12/
